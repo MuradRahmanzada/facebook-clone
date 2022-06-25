@@ -1,3 +1,8 @@
+# Facebook-clone made with Next JS
+H! This a Facebook Clone that i´ve built using NextJS.  
+__You can visit the website clicking <a href="https://fb-clone01.vercel.app/"/>here</a>
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
