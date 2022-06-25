@@ -8,7 +8,8 @@ const nextConfig = {
       "firebasestorage.googleapis.com",
       "platform-lookaside.fbsbx.com",
       'images2.minutemediacdn.com',
-      'scontent.fgyd4-2.fna.fbcdn.net'
+      'scontent.fgyd4-2.fna.fbcdn.net',
+      'lh3.googleusercontent.com'
     ]
   }
   

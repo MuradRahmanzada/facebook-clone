@@ -11,7 +11,7 @@ const Login = () => {
         width={400}
         objectFit="contain"
       />
-      <h1 className="p-5 bg-blue-500 rounded-full text-white text-center font-semibold cursor-pointer" onClick={signIn}>Login with Facebook</h1>
+      <h1 className="p-5 bg-blue-500 rounded-full text-white text-center font-semibold cursor-pointer" onClick={signIn}>Login with Google</h1>
     </div>
   );
 };
