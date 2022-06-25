@@ -1,6 +1,7 @@
 # Facebook-clone made with Next JS
 H! This a Facebook Clone that i´ve built using NextJS.  
 __You can visit the website clicking <a href="https://fb-clone01.vercel.app/"/>here</a>
+<br/>
 I dont own any rights from Facebook as a company, this platform was made for educational purposes and to be shown as a piece of portfolio.
 
 ![Screenshot (90)](https://user-images.githubusercontent.com/97960285/175791019-4fea2d0a-f341-478d-8a68-00a25219a523.png)
